@@ -5,4 +5,4 @@ language = "en"
 [output.html]
 git-repository-url = "https://github.com/danth/stylix"
 edit-url-template = "https://github.com/danth/stylix/edit/master/docs/{path}"
-
+no-section-label = true
